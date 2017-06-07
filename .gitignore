@@ -1,3 +1,7 @@
+# some default value
+*.mp4
+*.mov
+
 #common document extensions (case insensitive)
 **.[pP][dD][fF]
 **.[dD][oO][cC]
