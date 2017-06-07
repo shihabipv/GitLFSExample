@@ -1,6 +1,7 @@
 # some default value
 *.mp4
 *.mov
+#{PROJECT_DIR}/Videos/*.mp4
 
 #common document extensions (case insensitive)
 **.[pP][dD][fF]
